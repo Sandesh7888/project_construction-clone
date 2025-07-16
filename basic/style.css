@@ -191,7 +191,7 @@ h2 span {
 .Satisfaction {
     height: 700px;
     width: 100%;
-    background-image: url(building.jpg);
+    background-image: url(../Assets/building.jpg);
     background-size: 100% 100%;
 }
 
@@ -360,7 +360,7 @@ hr {
 
 .photo_project1{
     height: 550px;
-    background-image: url(Sai-Anand.jpg);
+    background-image: url(../Assets/Sai-Anand.jpg);
     background-size: 100% 100%;
     margin-top: 60px;
     position: static;
@@ -412,7 +412,7 @@ hr {
 
 .photo_project2{
     height: 550px;
-    background-image: url(Eka-Valley.jpg);
+    background-image: url(../Assets/Eka-Valley.jpg);
     background-size: 100% 100%;
     margin-top: 60px;
     
@@ -461,7 +461,7 @@ hr {
 
 .photo_project3{
     height: 550px;
-    background-image: url(Eka-Valley.jpg);
+    background-image: url(../Assets/Eka-Valley.jpg);
     background-size: 100% 100%;
     margin-top: 60px;
     
